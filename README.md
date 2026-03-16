@@ -2,6 +2,12 @@
 
 This project analyzes Walmart weekly retail sales using time series forecasting techniques.
 
+## Live Demo
+
+You can access the deployed dashboard here:
+
+https://your-app-link.streamlit.app
+
 ## Models Used
 - ARIMA
 - SARIMA
